@@ -1,0 +1,84 @@
+
+
+.img_will-done
+{
+     max-width: 850px;
+    height: auto;
+    border-radius: 9px;
+    text-align: unset;
+}
+.img_will-done img{
+    border-radius: 11px;
+    height: 340px;
+    width: 850px;
+}
+.direct{
+    max-width: 850px;
+    height:auto;
+    background-color: #404040;
+    border-radius: 9px;
+    text-align: unset;
+}
+.card{
+    height: 310px;
+    width: 255px;
+    background: #4b4b4b;
+    border:  solid 4px #1932b0;
+    border-radius: 10px ;
+}
+.card .dirc{
+    border-radius: 6px;
+    background: #ff0000;
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    font-size: large;
+    width: 70px;
+    height: auto;
+    float: right;
+    text-align: center;
+}
+.imgInRow{
+    padding: 8px;
+    border:  solid 4px #1932b0;
+    border-radius: 50%;
+    
+}
+.vs{
+    background: linear-gradient(220.75deg, #0031B5 23.14%, rgba(21, 84, 254, 0) 241.97%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+font-style: normal;
+font-weight: 400;
+font-size: 34px !important;
+line-height: 41px;
+}
+
+.text{
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 26px;
+text-align: right;
+letter-spacing: -0.055em;
+justify-content:space-between ;
+color: rgba(255, 255, 255, 0.69);
+}
+.btn2{
+    background: #393939;
+    color: rgba(255, 255, 255, 0.73);
+    width: 70px !important;
+    border: 1px solid #616161;
+    border-radius: 10px;
+}
+.rigt{
+    text-align: end;
+    color: #fff;
+    font-size: 34px;
+    font-weight: 500;
+    margin-bottom: 15PX;
+    align-items: end;
+
+}

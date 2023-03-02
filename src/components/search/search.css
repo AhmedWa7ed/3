@@ -1,0 +1,49 @@
+
+.search_parent{
+    max-width: 850px;
+    height: auto;
+    border-radius: 9px;
+    text-align: unset;
+
+}
+.input{
+     background: #404040;
+    width: 850px;
+    height: 45px;
+    border-radius: 9px;
+    outline: none;
+    border: none;
+    padding-right:35px ; 
+
+} 
+::placeholder{
+    color: #acacac;
+    font-weight: bold;
+}
+
+@media (min-width:801){
+    .search_parent{
+        max-width: 800px;
+    }
+    .input{
+        max-width: 550px;
+    }
+}
+
+@media (max-width:800px){
+    .search_parent{
+        max-width: 400px;
+    }
+    .input{
+        max-width: 450px; 
+    }
+
+}
+@media (max-width:400px){
+    .search_parent{
+        max-width: 100px;
+    }
+    .input{
+        max-width: 300px;
+    }
+}

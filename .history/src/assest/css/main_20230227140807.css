@@ -1,0 +1,21 @@
+*{
+    padding: 0px ;
+}
+body {
+    background: #121212;
+    font-size: 16px;
+    overflow-x: hidden;
+    outline: none;
+}
+
+.cont{
+    width: 50px;
+    height: 50px;
+    background-color: #633c3c;
+}
+.cont span{
+    color: white;
+    display: flex;
+    justify-content: center;
+    a
+}
